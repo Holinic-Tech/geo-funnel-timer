@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "timerSettings": {
+    "initialMinutes": 28,
+    "initialSeconds": 0,
+    "restartAfterMinutes": 1
+  },
+  "defaultText": "Self-care Special",
+  "styles": {
+    "barBackgroundColor": "#6c63a5",
+    "barTextColor": "#ffffff",
+    "timerBackgroundColor": "#4a4373",
+    "timerTextColor": "#ffffff",
+    "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "fontSize": "16px",
+    "timerFontSize": "18px"
+  },
+  "urlPatterns": [
+    "checkout.hairqare.co",
+    "buy.hairqare.co"
+  ],
+  "dataSource": {
+    "type": "csv",
+    "url": "https://yourgithubpages.com/promo-data.csv"
+  }
+}
