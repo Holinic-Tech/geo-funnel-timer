@@ -597,6 +597,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   // You can pass custom config or load from a URL
   window.HairqareTimer.init({
-    configUrl: 'https://yourgithubpages.com/timer-config.json'
+    configUrl: 'holinic-tech.github.io/timer-config.json'
   });
 });
