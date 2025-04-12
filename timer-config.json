@@ -21,6 +21,6 @@
   ],
   "dataSource": {
     "type": "csv",
-    "url": "https://yourgithubpages.com/promo-data.csv"
+    "url": "holinic-tech.github.io/promo-data.csv"
   }
 }
